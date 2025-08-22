@@ -15,4 +15,4 @@ The source code of 5 algorithms for factor selection and data valuation based on
 # case-study
 The SV-based sensitivity is applied to the multiphase fermentation process of Yarrowia lipolytica.
 - factor selection: The original experimental data, ApproShapley, gHL-based Algorithm, Algorithm 1, Theoretical SV calculation
-- gHL-based Algorithm: The experiment setup based on data, ApproShapley, gHL-based Algorithm, Algorithm 3, Theoretical SV estimation
+- data valuation: The experiment setup based on data, ApproShapley, gHL-based Algorithm, Algorithm 3, Theoretical SV estimation
